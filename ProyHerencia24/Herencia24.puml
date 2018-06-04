@@ -1,0 +1,6 @@
+@startuml
+class proyherencia24.ClasePersona24
+class proyherencia24.ClaseTrabajador24
+class proyherencia24.ProyHerencia24
+proyherencia24.ClaseTrabajador24 --|> proyherencia24.ClasePersona24
+@enduml
